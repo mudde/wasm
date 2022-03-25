@@ -1,0 +1,18 @@
+{
+  "name": "mudde-wasm",
+  "version": "1.0.0",
+  "description": "wasm image processing example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/index.js"
+  },
+  "keywords": [
+    "wasm",
+    "libvips"
+  ],
+  "author": "Olaf Mudde <olaf.mudde@xs4all.nl>",
+  "license": "MIT",
+  "dependencies": {
+    "wasm-vips": "^0.0.1"
+  }
+}
